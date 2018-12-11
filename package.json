@@ -1,5 +1,5 @@
 {
-  "name": "options-resolver",
+  "name": "@plasmapay/options-resolver",
   "version": "1.0.1",
   "description": "Port of Symfony component OptionsResolver. This library processes and validates option object",
   "main": "lib/index.js",
