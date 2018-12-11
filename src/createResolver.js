@@ -1,7 +1,7 @@
-import difference from 'lodash/array/difference';
+import { difference } from 'lodash/array';
 import { merge, omit } from 'lodash/object';
 import lang from 'lodash/lang';
-import sortBy from 'lodash/collection/sortBy';
+import { sortBy } from 'lodash/collection';
 
 export default function createResolver() {
   var state = {
